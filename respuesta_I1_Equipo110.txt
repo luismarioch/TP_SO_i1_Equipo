@@ -6,4 +6,8 @@ e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 
 a) si, el AlFA puede ver todos los datos que cargaron BETA Y GAMMA
 
-b) Si todo lo que agrego ALFA lo pueden ver los demás integrantes
+b) Si, todo lo que agrego ALFA lo pueden ver los demás integrantes
+
+c) Si, todos los demas integrantes lo ven  
+
+d) Nos comunicamos por llamada y a través de los commits cada vez que actualizamos el repositorio
