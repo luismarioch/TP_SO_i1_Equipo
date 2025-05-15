@@ -11,3 +11,5 @@ b) Si, todo lo que agrego ALFA lo pueden ver los demás integrantes
 c) Si, todos los demas integrantes lo ven  
 
 d) Nos comunicamos por llamada y a través de los commits cada vez que actualizamos el repositorio
+
+e)La mejor manera de comunicarnos dentro de github es agregando los commits con detalle de lo que cambiamos o agregamos cada vez que actuamos o actualizamos el repositorio. Ademas podemos especifijar en la zona de proyectos o "projects" lo que hizo o falta por hacer de parte de cada integrante
