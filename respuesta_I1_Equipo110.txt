@@ -4,3 +4,6 @@ c-¿Si BETA agrega un archivo los demás integrantes lo ven?
 d-¿De qué forma se comunicaron ustedes?
 e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 
+a) si, el AlFA puede ver todos los datos que cargaron BETA Y GAMMA
+
+b) Si todo lo que agrego ALFA lo pueden ver los demás integrantes
